@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/itsthemoony">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Mahan" alt="Hello! I&#39;m Mahan" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Mahan" alt="Hello! I&#39;m Mahan" />
   </a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-Senior Flutter Engineer | Mobile Developer (iOS &amp; Android) | Clean Architecture &amp; BLoC | Founder, StudyHero | Next.js, TypeScript &amp; LLM Integration | Open to EU
+Senior Flutter Engineer | Mobile Developer (iOS &amp; Android) | Clean Architecture &amp; BLoC | Founder, StudyHero | Next.js, TypeScript &amp; LLM Integration | Open to EU Jobs Remote/Hybrid
 
 🔭 &nbsp;I'm currently working on **@StudyHero**  
 👯 &nbsp;I'm looking to collaborate on **Interesting Projects**  
-💬 &nbsp;Ask me about **Flutter, UI UX**
+💬 &nbsp;Ask me about **Flutter, Nextjs, UI UX**
 
 ### 🛠️ Tech Stack
 
