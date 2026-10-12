@@ -48,11 +48,6 @@ Designed and launched a multi-tenant platform for receipts, invoices, and insura
 
 `Next.js` · `React` · `TypeScript` · `Express` · `PostgreSQL` · `Supabase` · `pgvector` · `Vitest` · `Playwright`
 
-#### 🎓 [StudyHero — University Planner](https://apps.apple.com/app/id6689523099)
-
-An independently designed and developed student productivity app on the App Store, combining semester planning, courses, deadlines, attendance, Pomodoro sessions, and GPA planning. Built with offline support, cloud sync, notifications, and eight-language localization.
-
-`Flutter` · `Dart` · `BLoC` · `Clean Architecture` · `Supabase` · `Firebase`
 
 #### 🌿 [VYRA — NASA Space Apps](https://github.com/NSP-BlueHorizon/vyra-mobile)
 
