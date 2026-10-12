@@ -10,12 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=36&lines=Building+web%2C+mobile+%26+AI-powered+products;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Flutter;LLMs+%7C+RAG+%7C+MCP+%7C+Claude+Code;Design+thoughtfully.+Test+thoroughly.+Ship+confidently." alt="Web, mobile and AI engineering" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahankheirollahi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kheirollahi.mahan@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://apps.apple.com/app/id6689523099"><img src="https://img.shields.io/badge/StudyHero-App%20Store-000000?style=flat-square&logo=apple&logoColor=white" alt="StudyHero on the App Store" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About me
