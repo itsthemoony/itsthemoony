@@ -1,9 +1,10 @@
-<h1 align="center">Hey, I'm Mahan 👋</h1>
+<!-- GitHub profile README for github.com/itsthemoony -->
 
-<p align="center">
-  <strong>AI-Native Full-Stack Software Engineer</strong><br />
-  <sub>From product discovery and UI/UX to architecture, production code, testing, and launch.</sub>
-</p>
+<h3 align="center">Hey, I'm Mahan 👋</h3>
+
+<h1 align="center">⚡ AI-Native Full-Stack Software Engineer</h1>
+
+<h2 align="center">From product discovery &amp; UI/UX to architecture,<br />production code, testing, and launch. 🚀</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=36&lines=Building+web%2C+mobile+%26+AI-powered+products;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Flutter;LLMs+%7C+RAG+%7C+MCP+%7C+Claude+Code;Design+thoughtfully.+Test+thoroughly.+Ship+confidently." alt="Web, mobile and AI engineering" />
@@ -21,7 +22,7 @@
 
 I'm a **full-stack software engineer with 5+ years of production experience**, building across **web, mobile, and AI-powered SaaS**. I work end to end: understanding requirements, designing in Figma, developing secure APIs and polished interfaces, writing tests, and shipping reliable software.
 
-Before focusing on engineering, I worked full-time as a **Business Analyst**. Writing user stories, acceptance criteria, and **1,000+ test cases** taught me to think about the user, edge cases, and measurable outcomes before writing code.
+Before focusing on engineering, I worked full-time as a **Business Analyst**. Writing user stories, acceptance criteria, and **1,000+ test cases** taught me to think about the user, edge cases and measurable outcomes before writing code.
 
 I build with **Claude Code, Codex, and Cursor**, while personally owning the architecture, security decisions, code review, and verification. AI accelerates the workflow; engineering judgment remains the quality gate.
 
@@ -111,25 +112,6 @@ A production-style Flutter reference project demonstrating feature-first archite
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### 📚 Beyond the code
-
-- 🎓 Pursuing an **MSc in Artificial Intelligence**.
-- ✍️ Writing about **Claude Code, Flutter architecture, and production engineering**.
-- 🧑‍🏫 Taught **Python to 30+ students** through a developer student community.
-- 🎸 Outside engineering, you'll probably find me playing guitar or violin.
-
-### 🤝 Let's connect
-
-I'm open to **Full-Stack, Software, AI Product, and Mobile Engineering** opportunities — remote, hybrid, or relocation — and to collaborating on interesting products.
-
-<p>
-  <a href="https://www.linkedin.com/in/mahankheirollahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kheirollahi.mahan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/itsthemoony"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://youtube.com/@itsthemoony"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://tiktok.com/@itsthemoony"><img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-</p>
-
 <details>
   <summary>📊 Public repository language breakdown</summary>
   <br />
@@ -138,7 +120,3 @@ I'm open to **Full-Stack, Software, AI Product, and Mobile Engineering** opportu
   </p>
   <sub>This reflects public GitHub repositories, not the full technology stack used in private or professional projects.</sub>
 </details>
-
----
-
-<p align="center"><sub>Design thoughtfully · Build responsibly · Ship confidently</sub></p>
