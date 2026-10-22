@@ -4,7 +4,7 @@
 
 <h1 align="center">⚡ AI-Native Full-Stack Software Engineer</h1>
 
-<h2 align="center">From product discovery &amp; UI/UX to architecture,<br />production code, testing, and launch. 🚀</h2>
+<h2 align="center">From product discovery &amp; UI/UX to architecture,<br />production code, testing and launch. 🚀</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=36&lines=Building+web%2C+mobile+%26+AI-powered+products;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Flutter;LLMs+%7C+RAG+%7C+MCP+%7C+Claude+Code;Design+thoughtfully.+Test+thoroughly.+Ship+confidently." alt="Web, mobile and AI engineering" />
